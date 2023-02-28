@@ -1,0 +1,19 @@
+body header nav ul li a{
+    color: crimson;
+}
+body header nav ul li{
+    color: salmon;
+}
+section fieldset {
+    background-color: salmon;
+}
+section h1{
+    color: brown,
+    }
+    h1{
+        color: tomato;
+        font-size: 35px;
+    }
+    body{
+        background-color: beige;
+    }
